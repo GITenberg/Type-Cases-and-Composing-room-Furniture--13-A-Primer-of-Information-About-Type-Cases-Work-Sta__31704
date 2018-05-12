@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '35419'
     url: http://www.gutenberg.org/2009/agents/35419
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31704#Type-Cases-and-Composing-room-Furniture--13-A-Primer-of-Information-About-Type-Cases-Work-Sta_
 gutenberg_issued: '2010-03-20'
 gutenberg_type: Text
 identifiers:
